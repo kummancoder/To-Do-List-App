@@ -23,5 +23,5 @@ A simple **To-Do List App** built using **HTML** and **CSS** to help you organiz
 For any questions or feedback, please contact:
 
 Name: Kumman Das Dhakad
-Email: Kummandhakad@gmail.com 
-GitHub: https://github.com/kummancoder
+- Email: Kummandhakad@gmail.com 
+- GitHub: https://github.com/kummancoder
