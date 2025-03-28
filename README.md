@@ -18,3 +18,10 @@ A simple **To-Do List App** built using **HTML** and **CSS** to help you organiz
 
 - **HTML**: For the structure of the application.
 - **CSS**: For styling, including Flexbox for layout and responsive design techniques.
+
+ ## Contact
+For any questions or feedback, please contact:
+
+Name: Kumman Das Dhakad
+Email: Kummandhakad@gmail.com 
+GitHub: https://github.com/kummancoder
